@@ -1,0 +1,6 @@
+C:\Users\Fedor\Desktop\C#\Lesson4\Lesson42\bin\Release\Lesson42.exe.config
+C:\Users\Fedor\Desktop\C#\Lesson4\Lesson42\bin\Release\Lesson42.exe
+C:\Users\Fedor\Desktop\C#\Lesson4\Lesson42\bin\Release\Lesson42.pdb
+C:\Users\Fedor\Desktop\C#\Lesson4\Lesson42\obj\Release\Lesson42.csproj.CoreCompileInputs.cache
+C:\Users\Fedor\Desktop\C#\Lesson4\Lesson42\obj\Release\Lesson42.exe
+C:\Users\Fedor\Desktop\C#\Lesson4\Lesson42\obj\Release\Lesson42.pdb
