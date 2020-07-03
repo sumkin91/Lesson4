@@ -1,0 +1,10 @@
+C:\Users\Fedor\Desktop\C#\Lesson4\Lesson43\bin\Debug\Lesson43.exe.config
+C:\Users\Fedor\Desktop\C#\Lesson4\Lesson43\bin\Debug\Lesson43.exe
+C:\Users\Fedor\Desktop\C#\Lesson4\Lesson43\bin\Debug\Lesson43.pdb
+C:\Users\Fedor\Desktop\C#\Lesson4\Lesson43\obj\Debug\Lesson43.csprojAssemblyReference.cache
+C:\Users\Fedor\Desktop\C#\Lesson4\Lesson43\obj\Debug\Lesson43.csproj.CoreCompileInputs.cache
+C:\Users\Fedor\Desktop\C#\Lesson4\Lesson43\obj\Debug\Lesson43.exe
+C:\Users\Fedor\Desktop\C#\Lesson4\Lesson43\obj\Debug\Lesson43.pdb
+c:\Users\Fedor\Desktop\C#\Lesson4\Lesson43\bin\Debug\MyLibArray.dll
+c:\Users\Fedor\Desktop\C#\Lesson4\Lesson43\bin\Debug\MyLibArray.pdb
+c:\Users\Fedor\Desktop\C#\Lesson4\Lesson43\obj\Debug\Lesson43.csproj.CopyComplete

@@ -1,0 +1,5 @@
+C:\Users\Fedor\Desktop\C#\Lesson4\MyLibArray\bin\Release\MyLibArray.dll
+C:\Users\Fedor\Desktop\C#\Lesson4\MyLibArray\bin\Release\MyLibArray.pdb
+C:\Users\Fedor\Desktop\C#\Lesson4\MyLibArray\obj\Release\MyLibArray.csproj.CoreCompileInputs.cache
+C:\Users\Fedor\Desktop\C#\Lesson4\MyLibArray\obj\Release\MyLibArray.dll
+C:\Users\Fedor\Desktop\C#\Lesson4\MyLibArray\obj\Release\MyLibArray.pdb

@@ -1,0 +1,6 @@
+C:\Users\Fedor\Desktop\C#\Lesson4\WriteReaderDoubleMassiveLibrary\bin\Debug\WriteReaderDoubleMassiveLibrary.dll
+C:\Users\Fedor\Desktop\C#\Lesson4\WriteReaderDoubleMassiveLibrary\bin\Debug\WriteReaderDoubleMassiveLibrary.pdb
+C:\Users\Fedor\Desktop\C#\Lesson4\WriteReaderDoubleMassiveLibrary\obj\Debug\WriteReaderDoubleMassiveLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Fedor\Desktop\C#\Lesson4\WriteReaderDoubleMassiveLibrary\obj\Debug\WriteReaderDoubleMassiveLibrary.dll
+C:\Users\Fedor\Desktop\C#\Lesson4\WriteReaderDoubleMassiveLibrary\obj\Debug\WriteReaderDoubleMassiveLibrary.pdb
+C:\Users\Fedor\Desktop\C#\Lesson4\WriteReaderDoubleMassiveLibrary\obj\Debug\WriteReaderDoubleMassiveLibrary.csprojAssemblyReference.cache
